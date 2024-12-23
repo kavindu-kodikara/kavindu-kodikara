@@ -28,9 +28,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on Java, React Native, JavaScript
+- 🔭 I’m currently working on Java, Android, JavaSE, JavaEE, SpringBoot, React Native, Arduino
   
-- 💬 Ask me about Java, JavaScript, React Native, PHP, MySQL
+- 💬 Ask me about Java, Android, JavaSE, JavaEE, SpringBoot, React Native, Arduino, PHP, MySQL, CSS, HTML
 
 - 📫 Feel free to reach me at **kavindu29nk@gmail.com**
 <!--Intro end-->
