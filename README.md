@@ -68,7 +68,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,hibernate,react-native,android,react,ts,js,html,css,tailwind,php,mysql,git,github,postman,figma,nextjs,nodejs,py,vscode,intellij&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react-native,androidstudio,firebase,arduino,react,ts,js,html,css,tailwind,bootstrap,php,mysql,git,github,postman,figma,nextjs,nodejs,py,vscode,idea&perline=14" />
   </a>
 </p>
 
